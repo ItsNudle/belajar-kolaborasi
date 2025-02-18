@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Ini teks
+Ini teks untuk menunjukan
